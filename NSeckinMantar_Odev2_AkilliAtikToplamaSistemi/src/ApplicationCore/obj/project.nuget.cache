@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "tjCCDZnbLy9gZAu/M8gokoERG53MuBAdD2xgguV3fwStTJfUAIfVQTqioViNOTR/5//W/y2fUHX3wFA67YGGbQ==",
+  "dgSpecHash": "X37X6y45wfm6rZ8Dsu9UrmqWPkvvMBepQQM9xO8BygovznNRv7ks0oMn5mb38Gkrs6Xi/UZFz4Peak76WBK39Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\source\\repos\\ucuncuodev-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

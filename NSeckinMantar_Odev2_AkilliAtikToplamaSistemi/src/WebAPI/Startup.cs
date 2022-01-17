@@ -1,3 +1,4 @@
+using ApplicationCore.MiddleWare;
 using Infrastructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -54,6 +55,9 @@ namespace WebAPI
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebAPI v1"));
             }
+
+
+            app.UseMiddleware<BlockVehicleGetById>();
 
             app.UseHttpsRedirection();
 
